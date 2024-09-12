@@ -20,3 +20,8 @@ This project implements a simple login page using HTML, CSS, and JavaScript. The
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/login-page-assignment.git
+
+## Live Demo
+
+You can view the live demo of this project here: [Live Demo](https://Gurpreetsingh241199github.io/AWAK_ASSIGNMENT)
+
