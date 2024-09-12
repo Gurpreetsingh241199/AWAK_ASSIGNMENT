@@ -23,4 +23,4 @@ This project implements a simple login page using HTML, CSS, and JavaScript. The
 
 ## Live Demo
 
-You can view the live demo of this project here: [Live Demo](https://Gurpreetsingh241199github.io/AWAK_ASSIGNMENT)
+You can view the live demo of this project here: [Live Demo](https://gurpreetsingh241199.github.io/AWAK_ASSIGNMENT/)
